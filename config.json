@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaserave",
+        "uuid": 8587200,
+        "checksum": "5yz89"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
